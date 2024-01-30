@@ -2,3 +2,6 @@ for checking the connection of github
 
 
 Add this line.
+
+
+差分の確認
